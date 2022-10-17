@@ -66,7 +66,7 @@
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Questo è un Nuovo post](https://dev.to/mattiarollo/questo-e-un-nuovo-post-fg)
+- [Javascript begin](https://dev.to/mattiarollo/questo-e-un-nuovo-post-fg)
 <!-- BLOG-POST-LIST:END -->
 
 

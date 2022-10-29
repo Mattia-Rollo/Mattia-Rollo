@@ -66,6 +66,7 @@
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Clone Object](https://dev.to/mattiarollo/clone-object-5583)
 - [Javascript begin](https://dev.to/mattiarollo/questo-e-un-nuovo-post-fg)
 <!-- BLOG-POST-LIST:END -->
 

@@ -58,13 +58,12 @@ Outside of my daily work, I use GitHub to explore technologies I don't use in pr
 
 ---
 
+---
+
 ### 📈 My Stats
 
 <p align="left">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mattia-Rollo&layout=compact&theme=vision-friendly-dark&hide=html,css" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mattia-Rollo&show_icons=true&theme=vision-friendly-dark&count_private=true" />
-</a>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mattia-Rollo&theme=vision-friendly-dark&hide_border=true" alt="GitHub Streak" />
+  </a>
 </p>

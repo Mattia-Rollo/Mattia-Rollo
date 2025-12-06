@@ -58,8 +58,6 @@ Outside of my daily work, I use GitHub to explore technologies I don't use in pr
 
 ---
 
----
-
 ### 📈 My Stats
 
 <p align="left">

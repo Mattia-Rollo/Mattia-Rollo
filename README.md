@@ -58,11 +58,10 @@ Outside of my daily work, I use GitHub to explore technologies I don't use in pr
 
 ---
 
-### 📈 My Stats
+<h3 align="center">📈 My Stats</h3>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Mattia-Rollo" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mattia-Rollo&layout=compact&langs_count=8&card_width=320" />
-</a>
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Mattia-Rollo&show_icons=true&theme=tokyonight&hide_border=true" alt="Mattia's Stats" />
+  &nbsp;
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mattia-Rollo&layout=compact&langs_count=8&card_width=320&theme=tokyonight&hide_border=true" alt="Mattia's Top Languages" />
+</p>

@@ -58,10 +58,12 @@ Outside of my daily work, I use GitHub to explore technologies I don't use in pr
 
 ---
 
-<h3 align="center">📈 My Stats</h3>
-
 ### 📈 My Stats
 
 <p align="center">
-  <img src="https://github.com/Mattia-Rollo/Mattia-Rollo/blob/main/github-metrics.svg" alt="Mattia's Generated Metrics">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mattia-Rollo&theme=tokyonight&hide_border=true" alt="Mattia's Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mattia-Rollo&layout=compact&langs_count=8&card_width=320&theme=tokyonight&hide_border=true" alt="Mattia's Top Languages" />
 </p>

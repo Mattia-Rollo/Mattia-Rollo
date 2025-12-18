@@ -61,5 +61,5 @@ Outside of my daily work, I use GitHub to explore technologies I don't use in pr
 ### 📈 My Stats
 
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mattia-Rollo&theme=tokyonight" alt="Mattia's Streak" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Mattia-Rollo&theme=tokyonight" alt="Mattia's Streak" /></a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mattia-Rollo&layout=compact&langs_count=8&card_width=320&theme=tokyonight&hide_border=true" alt="Mattia's Top Languages" />
